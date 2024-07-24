@@ -1,1 +1,1 @@
-# pneumonia_classification_using-_CNN
+# pneumonia_classification_using_CNN
